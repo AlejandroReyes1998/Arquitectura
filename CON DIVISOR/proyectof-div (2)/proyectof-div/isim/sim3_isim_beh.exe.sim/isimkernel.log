@@ -1,0 +1,29 @@
+Command line:
+   sim3_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52073
+
+Wed May 29 21:30:50 2019
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 5221.54 Meg
+
+ Total Signals          : 283
+ Total Nets             : 33653
+ Total Signal Drivers   : 73
+ Total Blocks           : 67
+ Total Primitive Blocks : 47
+ Total Processes        : 63
+ Total Traceable Variables  : 86
+ Total Scalar Nets and Variables : 60844
+Total Line Count : 327
+
+ Total Simulation Time: 0.375 sec
+
+ Current Memory Usage: 4749.68 Meg
+
+Wed May 29 22:00:40 2019
+

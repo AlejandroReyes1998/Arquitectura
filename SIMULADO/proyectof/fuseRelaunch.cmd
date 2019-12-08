@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3_isim_beh.exe" -prj "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3_beh.prj" "work.sim3" 

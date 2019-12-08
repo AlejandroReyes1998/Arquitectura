@@ -1,0 +1,71 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3_isim_beh.exe -prj C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3_beh.prj work.sim3 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/RegistroEstado.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/registro.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Nivel.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/multiplexor2.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/MicrocodOperacion.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/MicrocodFuncion.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/DemuxS.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/DemuxCodOpera.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/demux.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/DecoInstruc.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Control.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Condicion.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/components.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/bs.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/pilax.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Mux4.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Mux16.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/memoProg.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/memdatos.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/main.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/extsig.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/extdir.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/Componentes.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/archivoReg.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/alu.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/procesador.vhd" into library work
+Parsing VHDL file "C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package main
+Compiling package components
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity Condicion [condicion_default]
+Compiling architecture behavioral of entity Control [control_default]
+Compiling architecture behavioral of entity DecoInstruc [decoinstruc_default]
+Compiling architecture behavioral of entity DemuxCodOpera [demuxcodopera_default]
+Compiling architecture behavioral of entity DemuxS [demuxs_default]
+Compiling architecture behavioral of entity MicrocodFuncion [microcodfuncion_default]
+Compiling architecture behavioral of entity microcodOperacion [microcodoperacion_default]
+Compiling architecture behavioral of entity Nivel [nivel_default]
+Compiling architecture behavioral of entity RegistroEstado [registroestado_default]
+Compiling architecture behavioral of entity Componentes [componentes_default]
+Compiling architecture funcion of entity MemProg [\MemProg(10)\]
+Compiling architecture behavioral of entity pila [pila_default]
+Compiling architecture behavioral of entity registro [registro_default]
+Compiling architecture behavioral of entity mux2 [mux2_default]
+Compiling architecture behavioral of entity barrelShifter [barrelshifter_default]
+Compiling architecture behavioral of entity demultiplexor [demultiplexor_default]
+Compiling architecture behavioral of entity archivoRegx [archivoregx_default]
+Compiling architecture behavioral of entity Mux4 [mux4_default]
+Compiling architecture behavioral of entity Mux16 [mux16_default]
+Compiling architecture arquitectura of entity ExtensorSigno [extensorsigno_default]
+Compiling architecture arquitectura of entity ExtensorDirec [extensordirec_default]
+Compiling architecture arquitectura of entity alux [\alux(16)\]
+Compiling architecture behavioral of entity MemoriaDatos [\MemoriaDatos(11,16)\]
+Compiling architecture behavioral of entity Procesador [procesador_default]
+Compiling architecture behavior of entity sim3
+Time Resolution for simulation is 1ps.
+Waiting for 22 sub-compilation(s) to finish...
+Compiled 55 VHDL Units
+Built simulation executable C:/Users/Alejandro Reyes/Desktop/uno/proyectof/sim3_isim_beh.exe
+Fuse Memory Usage: 35468 KB
+Fuse CPU Usage: 1468 ms

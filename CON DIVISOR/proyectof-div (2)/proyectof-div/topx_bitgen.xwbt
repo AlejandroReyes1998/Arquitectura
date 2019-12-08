@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Alejandro Reyes\Desktop\uno\proyectof-div (2)\proyectof-div\topx.ncd
+OUTFILE=C:\Users\Alejandro Reyes\Desktop\uno\proyectof-div (2)\proyectof-div\topx.bit
+FAMILY=Artix7
+PART=xc7a100t-2csg324
+WORKINGDIR=C:\Users\Alejandro Reyes\Desktop\uno\proyectof-div (2)\proyectof-div
+LICENSE=WebPack
+USER_INFO=211668324_0_0_255
