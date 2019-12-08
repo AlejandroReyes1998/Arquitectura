@@ -1,2 +1,3 @@
 # Arquitectura
- Procesador Desarrollado en la maeria de arquitectura
+ Enero Junio 2019
+ Procesador Desarrollado en la materia de arquitectura
